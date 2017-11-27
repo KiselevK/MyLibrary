@@ -6,7 +6,7 @@ insert Author values
 (N'Скотт Линч',N'Scott Lynch',N'https://fantlab.ru/autor1047'),
 (N'Пол Хофман',N'Paul Hoffman',N'https://fantlab.ru/autor10127'),
 (N'Саба Тахир',N'Sabaa Tahir',N'https://fantlab.ru/autor43490'),
-(N'Джим Батчер ',N'Jim Butcher',N'https://fantlab.ru/autor957'),
+(N'Джим Батчер',N'Jim Butcher',N'https://fantlab.ru/autor957'),
 (N'Джо Аберкромби',N'Joe Abercrombie',N'https://fantlab.ru/autor2005'),
 (N'Кертис Джоблинг',N'Curtis Jobling',N'https://fantlab.ru/autor33600'),
 (N'Анджей Сапковский ',N'Andrzej Sapkowski',N'https://fantlab.ru/autor12'),

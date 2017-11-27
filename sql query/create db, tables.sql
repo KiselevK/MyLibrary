@@ -1,5 +1,6 @@
+create database MyLibrary
 
-
+go
 use MyLibrary
 
 Create table Author
